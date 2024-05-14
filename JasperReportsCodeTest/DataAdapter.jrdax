@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<excelDataAdapter class="net.sf.jasperreports.data.excel.ExcelDataAdapterImpl">
+  <name>New Data Adapter 1</name>
+  <useFirstRowAsHeader>false</useFirstRowAsHeader>
+  <locale>en_US</locale>
+  <timeZone>Africa/Nairobi</timeZone>
+  <dataFile type="repositoryDataLocation">
+    <location>C:\Users\pc\Downloads\Junior Data Analyst _ Data.xlsx</location>
+  </dataFile>
+  <columnNames> Hour 0 represents the hour from midnight to 01:00 and hour 23 represents the hour from 23:00 to midnight.</columnNames>
+  <columnIndexes>2</columnIndexes>
+  <queryExecuterMode>false</queryExecuterMode>
+  <sheetSelection></sheetSelection>
+  <format>xlsx</format>
+</excelDataAdapter>
